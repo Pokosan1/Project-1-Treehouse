@@ -53,11 +53,11 @@ a:hover {
 }
 .nav a:hover {
   color: white
-}
+} 
 
 header {
   text-align: center;
-  background: url('images/portland.jpg') no-repeat top center ;
+  background: url('images/diamond.jpg') no-repeat center center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
